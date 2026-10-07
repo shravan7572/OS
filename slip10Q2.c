@@ -7,7 +7,7 @@
 //for this: step1-take n number
 //step-2 take arrival time and burst time 
 //step-3 sort them
-//step-4 use gantt chart logic
+//step-4 use t chart logic
 //step 5 print gantt chart
 
 #include<stdio.h>

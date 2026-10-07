@@ -1,1 +1,6 @@
 what is gantt chart ?? use of it?
+int argc argv atoi
+
+avg wt and avgtat
+
+execl code .
